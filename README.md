@@ -32,7 +32,7 @@ This was found by reverse engineering one unit (VID `0x3537`, PID `0x1093`). Oth
 ## Requirements
 
 - Windows 10 or 11 (x64)
-- GameSir T3 Lite connected by USB
+- GameSir T3 Lite in Xbox mode (`holding the Home + X buttons for 2 seconds`) connected by USB
 - **L4/R4 left unassigned on the controller itself** (otherwise the game also receives the copied button)
 
 ## Usage
