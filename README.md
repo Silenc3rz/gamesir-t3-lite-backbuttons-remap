@@ -37,7 +37,7 @@ This was found by reverse engineering one unit (VID `0x3537`, PID `0x1093`). Oth
 
 ## Usage
 
-1. Download the latest `.zip` from the [Releases](../../releases) page and extract it anywhere you can write to (not `C:\Program Files`).
+1. Download the latest `.zip` from the [Releases](../../releases) page and extract it anywhere you can write to.
 2. Run `gamesir-remap.exe`. The window opens and a green icon appears in the system tray.
 3. Press **Define key / shortcut** next to L4 or R4, then press the key or combination you want.
 4. Close the window whenever you like. The app keeps running in the tray.
